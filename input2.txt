@@ -1,0 +1,6 @@
+ SELECT TOP (400) [UserAuthorizationKey]
+      ,[Building]
+      ,[BuildingISO2]
+      ,[DateAdded]
+      ,[DateOfLastUpdate]
+  FROM [QueensClassSchedule].[Project3].[BuildingISO2]
